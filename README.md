@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif)]
+![MasterHead](https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif)
 <h1 align="center">Hi 👋, I'm Manav Gupta</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
